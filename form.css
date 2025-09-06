@@ -10,3 +10,10 @@ input{
     font-family: Arial, Helvetica, sans-serif;
     padding: 1rem;
 }
+
+.signup{
+    background-color: aqua;
+    color:red;
+    padding: 1rem;
+    font-size: 3rem;
+}
