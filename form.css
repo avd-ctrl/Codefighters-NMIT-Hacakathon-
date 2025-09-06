@@ -17,6 +17,10 @@ p{
     font-size: 5rem;
 }
 
+a{
+    color: aqua;
+}
+
 .signup,.login{
     background-color: aqua;
     color:red;
