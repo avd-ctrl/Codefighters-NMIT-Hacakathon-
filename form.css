@@ -11,7 +11,7 @@ input{
     padding: 1rem;
 }
 
-.signup{
+.signup,.signin{
     background-color: aqua;
     color:red;
     padding: 1rem;
